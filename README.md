@@ -51,6 +51,7 @@ code --install-extension usernamehw.errorlens
 {
 	"security.workspace.trust.enabled":  true,
 	"explorer.compactFolders":  false,
+	"explorer.fileNesting.enabled": true,
 	"workbench.iconTheme":  "material-icon-theme",
 	"workbench.colorTheme":  "Aura Dark",
 	"editor.bracketPairColorization.enabled":  true,
