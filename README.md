@@ -25,6 +25,7 @@ code --list-extensions | % { "code --install-extension $_" }
 - [liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [flutter-riverpod-snippets](https://marketplace.visualstudio.com/items?itemName=robert-brunhage.flutter-riverpod-snippets)
 - [errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [npmLens](https://marketplace.visualstudio.com/items?itemName=Pilaton.vscode-npm-lens)
 
 ```
 code --install-extension aaron-bond.better-comments
@@ -44,6 +45,7 @@ code --install-extension redhat.vscode-yaml
 code --install-extension ritwickdey.liveserver
 code --install-extension robert-brunhage.flutter-riverpod-snippets
 code --install-extension usernamehw.errorlens
+code --install-extension Pilaton.vscode-npm-lens
 ```
 
 ### Profile Configurations
