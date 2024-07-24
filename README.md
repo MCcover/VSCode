@@ -27,7 +27,7 @@ code --list-extensions | % { "code --install-extension $_" }
 - [errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [npmLens](https://marketplace.visualstudio.com/items?itemName=Pilaton.vscode-npm-lens)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-
+- [Architecture View NestJS](https://marketplace.visualstudio.com/items?itemName=archsense.architecture-view-nestjs)
 ```
 code --install-extension aaron-bond.better-comments
 code --install-extension adpyke.codesnap
@@ -48,6 +48,7 @@ code --install-extension robert-brunhage.flutter-riverpod-snippets
 code --install-extension usernamehw.errorlens
 code --install-extension Pilaton.vscode-npm-lens
 code --install-extension wix.vscode-import-cost
+code --install-extension archsense.architecture-view-nestjs
 ```
 
 ### Profile Configurations
